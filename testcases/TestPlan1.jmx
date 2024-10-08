@@ -37,7 +37,7 @@
               </elementProp>
               <elementProp name="appid" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                <stringProp name="Argument.value">d8bd8ebdd20893d3f60a3174e9ba3b0d</stringProp>
+                <stringProp name="Argument.value"></stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
                 <stringProp name="Argument.name">appid</stringProp>
